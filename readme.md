@@ -14,6 +14,17 @@ This repository collects structured, YAML-encoded factual corrections and empiri
 
 - [7z.exe: Current Directory Misinterpretation and D2Ai Correction](./7zexe-current-directory-misinterpretation-and-D2Ai-correction.md)
 
-## 🧠 Try it on ChatGPT:  
-[D2Ai Correction Assistant on GPT Store](https://chatgpt.com/g/g-6844ca0b04688191971f22f1c5f699dd-d2ai-correction-assistant)
+---
+
+## 🧠 Try It on ChatGPT
+
+You can now interact with the D2Ai logic directly through a custom GPT:
+
+🔗 [D2Ai Correction Assistant on GPT Store](https://chatgpt.com/g/g-6844ca0b04688191971f22f1c5f699dd-d2ai-correction-assistant)
+
+This GPT applies D2Ai records to correct typical LLM misinterpretations of software behavior,
+such as `7z.exe` extraction path misjudgments.
+
+Category: Research & Analysis  
+Author: blantex
 
