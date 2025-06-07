@@ -14,3 +14,6 @@ This repository collects structured, YAML-encoded factual corrections and empiri
 
 - [7z.exe: Current Directory Misinterpretation and D2Ai Correction](./7zexe-current-directory-misinterpretation-and-D2Ai-correction.md)
 
+## 🧠 Try it on ChatGPT:  
+[D2Ai Correction Assistant on GPT Store](https://chatgpt.com/g/g-6844ca0b04688191971f22f1c5f699dd-d2ai-correction-assistant)
+
